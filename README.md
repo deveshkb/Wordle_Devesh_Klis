@@ -31,9 +31,9 @@ gcc src/main.c -o wordle
 * Mot de 5 lettres
 * Indications :
 
-  * Lettre correcte et bien placée
-  * Lettre présente mais mal placée
-  * Lettre absente
+  * Lettre correcte et bien placée (o)
+  * Lettre présente mais mal placée (v)
+  * Lettre absente (x)
 
 # Auteurs
 
