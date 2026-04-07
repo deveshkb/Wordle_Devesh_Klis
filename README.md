@@ -1,5 +1,5 @@
 # Wordle_Devesh_Klis
-# Projet Wordle en C
+
 
 # Description
 
