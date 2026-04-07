@@ -10,7 +10,7 @@ Le joueur doit deviner un mot de 5 lettres en 6 essais maximum.
 
 ```bash
 git clone <url_repo>
-cd wordle_nom1_nom2
+cd Wordle_Devesh-Klis
 ```
 
 # Compilation
